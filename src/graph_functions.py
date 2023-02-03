@@ -167,3 +167,4 @@ def linegraph(x, y, xtitle: str, ytitle: str, main_title: str=None, main_subtitl
 
     # Adjust the margins around the plot area
     plt.subplots_adjust(left=None, right=None, wspace=None, hspace=0.4)
+    
