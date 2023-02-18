@@ -29,6 +29,8 @@ In the cases, there's a big concentration of 1 to 2 cases per row.
 
 - _*Answer question 4:*_ As observed here, the majority of affected individuals are adult females, whereas there is little variation in the number of affected minors between males and females.
 
+- _*Definition:*_ What is scopolamine? Scopolamine is a drug used to treat motion sickness and nausea, but it can also be abused to cause amnesia and delirium. It has been used in crimes, including "date rape" due to its ability to be surreptitiously administered in drinks. Scopolamine is a potent drug that should only be used under the guidance of a medical professional. 
+
 - _*Insight 4:*_ It is true that scopolamine usage is concentrated primarily in the central region of the country, with a significant presence observed in Bogotá, the capital of Colombia. This city also has the highest number of cases involving the use of scopolamine in domestic violence incidents, in comparison to other regions.
 
 ### Time series analysis conclusions
