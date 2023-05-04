@@ -16,7 +16,7 @@ The present EDA is based on the dataset provided by DIJIN (Directorate of Crimin
 
 ## Here's an overview of what I found analyzing the data:
 
-- _*Insight 1:*_ there is not a common distribution nor a consistent one.
+- _*Insight 1:*_ there is a seasonal pattern in the data, which performs its highest values of cases in the last month of the year, December.
 
 - _*Insight 2:*_ In the date, we can see how 2020 had a great increase on cases, we'll talk about this later in time series analysis.
 In the cases, there's a big concentration of 1 to 2 cases per row.
