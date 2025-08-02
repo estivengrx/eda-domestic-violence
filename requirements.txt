@@ -30,7 +30,7 @@ fastparquet==2023.7.0
 fonttools>=4.43.0
 fqdn==1.5.1
 fsspec==2023.6.0
-h11==0.9.0
+h11==0.16.0
 hpack==3.0.0
 htmlmin==0.1.12
 hyperframe==5.2.0
