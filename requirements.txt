@@ -74,7 +74,7 @@ packaging==23.0
 pandas==1.5.3
 pandocfilters==1.5.0
 parso==0.8.3
-patsy==0.5.3
+patsy==1.0.1
 phik==0.12.3
 pickleshare==0.7.5
 Pillow>=10.0.1
