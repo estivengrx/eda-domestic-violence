@@ -24,7 +24,7 @@ pandas==3.0.2
 parso==0.8.6
 pexpect==4.9.0
 phik==0.12.5
-pillow==12.2.0
+pillow==12.3.0
 platformdirs==4.9.4
 plotly==6.6.0
 prompt_toolkit==3.0.52
